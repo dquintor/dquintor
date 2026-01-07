@@ -18,7 +18,7 @@
 <!-- Avatar -->
 <p align="center">
   <img 
-    src="./avatar.png" 
+    src="./avatar_image.png" 
     width="180" 
     style="border-radius:50%; box-shadow: 0 0 40px rgba(236,72,153,0.75);" 
     alt="Avatar"
