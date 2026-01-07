@@ -43,11 +43,10 @@
 
 <h2 align="center">PROFILE</h2>
 
-<p align="center">
+<p >
 Computer Engineering student with a strong interest in software development and problem solving.<br/>
 Currently building full-stack skills while strengthening fundamentals in algorithms, collaboration, and version control.<br/>
 Driven by continuous learning, productivity systems, and intentional personal growth.<br/>
-Actively preparing for my first professional role in software engineering.
 </p>
 
 <!-- Glass Divider -->
@@ -70,40 +69,6 @@ Actively preparing for my first professional role in software engineering.
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ec4899,100:f472b6" width="50%" />
 </p>
 
-<!-- ===================================================== -->
-<!--                   PERFORMANCE                        -->
-<!-- ===================================================== -->
-
-<h2 align="center">PERFORMANCE</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dquintor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=ec4899&icon_color=f472b6" />
-  <img height="170" src="https://streak-stats.demolab.com?user=dquintor&theme=tokyonight&hide_border=true&ring=ec4899&fire=f472b6&currStreakLabel=ec4899" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dquintor&layout=compact&theme=tokyonight&hide_border=true&title_color=ec4899" />
-</p>
-
-<!-- Glass Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:f472b6,100:ec4899" width="50%" />
-</p>
-
-<!-- ===================================================== -->
-<!--                    ACTIVITY                          -->
-<!-- ===================================================== -->
-
-<h2 align="center">ACTIVITY</h2>
-
-<p align="center">
-  <img src="https://github.com/dquintor/dquintor/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<!-- Glass Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ec4899,100:f472b6" width="50%" />
-</p>
 
 <!-- ===================================================== -->
 <!--                     CONTACT                          -->
