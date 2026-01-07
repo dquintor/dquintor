@@ -2,41 +2,56 @@
 <!--                     HEADER                           -->
 <!-- ===================================================== -->
 
-<!--  Banner -->
-<p align="center">
+<!-- Soft Pink Tech Banner -->
+<p align="center" style="margin-bottom:10px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Hey!%20I'm%20Dani&fontSize=48&fontColor=312e81&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=70&color=e0e7ff" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Hey!%20I'm%20Dani&fontSize=46&fontColor=6b0f4e&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=fde7f0" 
+  />
+</p>
+
+<!-- Floating Sparkle Illusion -->
+<p align="center" style="margin-top:-6px; margin-bottom:12px;">
+  <img 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+    width="0" height="0"
+  />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=slice&height=22&color=0:ec4899,100:f9a8d4" 
+    width="65%" 
   />
 </p>
 
 <!-- Typing animation -->
-<p align="center">
+<p align="center" style="margin-top:6px; margin-bottom:14px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=2600&pause=900&color=ec4899&center=true&vCenter=true&width=640&lines=Software+Developer;Full-Stack+Development;Engineering+Scalable+and+Maintainable+Systems;Focused+on+Quality+and+Continuous+Improvement" 
+    src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=2600&pause=900&color=ec4899&center=true&vCenter=true&width=640&lines=Software+Developer;Full-Stack+Development;Engineering+Scalable+and+Maintainable+Systems;Focused+on+Quality+and+Continuous+Improvement" 
     alt="Typing animation"
   />
 </p>
 
 <!-- Avatar -->
-<p align="center">
+<p align="center" style="margin-top:4px; margin-bottom:12px;">
   <img 
     src="./avatar_image.png" 
-    width="170" 
-    style="border-radius:50%; box-shadow: 0 0 35px rgba(236,72,153,0.75);" 
+    width="168" 
+    style="border-radius:50%; box-shadow: 0 0 32px rgba(236,72,153,0.55);" 
     alt="Avatar"
   />
 </p>
 
 <!-- Portfolio CTA -->
-<p align="center">
+<p align="center" style="margin-bottom:18px;">
   <a href="https://dquintor.github.io/portafolio/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Portfolio-ec4899?style=for-the-badge&logo=vercel&logoColor=020617"/>
   </a>
 </p>
 
-<!-- Subtle Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ec4899" width="55%" />
+<!-- Soft Glow Divider -->
+<p align="center" style="margin-bottom:26px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f9a8d4,50:ec4899,100:f9a8d4" 
+    width="58%" 
+  />
 </p>
 
 <!-- ===================================================== -->
