@@ -2,10 +2,10 @@
 <!--                     HEADER                           -->
 <!-- ===================================================== -->
 
-<!-- Minimal Luxury Banner -->
+<!--  Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Hey!%20I'm%20Dani&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=70&color=020617&fontAlignY=40" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Hey!%20I'm%20Dani&fontSize=48&fontColor=701a75&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=70&color=fce7f3" 
   />
 </p>
 
