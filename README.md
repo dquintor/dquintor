@@ -4,7 +4,7 @@
 
 <!-- Luxury Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=320&text=DANI%20QUINTO%20RÍOS&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=0:020617,40:1e293b,70:831843,100:ec4899" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=320&text=Hey!%20I'm%20Dani&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=0:020617,40:1e293b,70:831843,100:ec4899" />
 </p>
 
 <!-- Typing animation -->
