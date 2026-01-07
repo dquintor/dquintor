@@ -32,7 +32,7 @@
 <!-- Avatar -->
 <p align="center" style="margin-top:4px; margin-bottom:12px;">
   <img 
-    src="./avatar_image.png" 
+    src="./avatar_icon.png" 
     width="168" 
     style="border-radius:50%; box-shadow: 0 0 32px rgba(236,72,153,0.55);" 
     alt="Avatar"
