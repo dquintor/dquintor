@@ -10,7 +10,10 @@
 <!-- Typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=ec4899&center=true&vCenter=true&width=640&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Full-Stack+Development+in+Progress;Focused+on+Scalable+Systems+and+Clean+Architecture" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2600&pause=900&color=ec4899&center=true&vCenter=true&width=640&lines=Software+Developer;
+Full-Stack+Development;
+Engineering+Scalable+and+Maintainable+Systems;
+Focused+on+Quality+and+Continuous+Improvement" 
     alt="Typing animation"
   />
 </p>
