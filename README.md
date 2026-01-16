@@ -5,7 +5,7 @@
 <!-- Soft Pink Tech Banner -->
 <p align="center" style="margin-bottom:10px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Hey!%20I'm%20Dani&fontSize=46&fontColor=6b0f4e&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=fde7f0" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Hey!%20I'm%20Dani&fontSize=46&fontColor=6b0f4e&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=fde7f0" 
   />
 </p>
 
@@ -62,8 +62,7 @@
 
 <p align="center" style="max-width:720px; margin:auto;">
 Computer Engineering student with a strong interest in software development and problem solving.<br/>
-Currently building full-stack skills while strengthening fundamentals in algorithms, collaboration, and version control.<br/>
-Driven by continuous learning, productivity systems, and intentional personal growth.
+Currently building full-stack skills while strengthening fundamentals in algorithms, collaboration, and version control.<br/>.
 </p>
 
 <!-- Subtle Divider -->
@@ -85,6 +84,16 @@ Driven by continuous learning, productivity systems, and intentional personal gr
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ec4899" width="40%" />
 </p>
+
+<br>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dquintor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dquintor&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br>
+
+  <br>
 
 <!-- ===================================================== -->
 <!--                     CONTACT                          -->
