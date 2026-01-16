@@ -5,7 +5,7 @@
 <!-- Soft Pink Tech Banner -->
 <p align="center" style="margin-bottom:10px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Hey!%20I'm%20Dani&fontSize=46&fontColor=6b0f4e&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=#e8c2caff" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Hey!%20I'm%20Dani&fontSize=46&fontColor=6b0f4e&animation=fadeIn&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=72&color=#fde7f0" 
   />
 </p>
 
