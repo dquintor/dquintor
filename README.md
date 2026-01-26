@@ -93,6 +93,14 @@ Currently building full-stack skills while strengthening fundamentals in algorit
 </div>
 <br>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dquintor/dquintor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dquintor/dquintor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dquintor/dquintor/output/pacman-contribution-graph.svg">
+</picture>
+
+
   <br>
 
 <!-- ===================================================== -->
