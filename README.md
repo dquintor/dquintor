@@ -93,7 +93,6 @@ Currently building full-stack skills while strengthening fundamentals in algorit
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/daniquinto/daniquinto/output/snake.svg" alt="Snake animation" />
 
 
   <br>
