@@ -88,12 +88,12 @@ Currently building full-stack skills while strengthening fundamentals in algorit
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dquintor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dquintor&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniquinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniquinto&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/dquintor/dquintor/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/daniquinto/daniquinto/output/snake.svg" alt="Snake animation" />
 
 
   <br>
@@ -114,7 +114,7 @@ Currently building full-stack skills while strengthening fundamentals in algorit
   </a>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniquinto/daniquinto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniquinto/daniquinto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daniquinto/daniquinto/output/pacman-contribution-graph.svg">
 </picture> 
