@@ -113,3 +113,8 @@ Currently building full-stack skills while strengthening fundamentals in algorit
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
+</picture> 
