@@ -41,7 +41,7 @@
 
 <!-- Portfolio CTA -->
 <p align="center" style="margin-bottom:18px;">
-  <a href="https://dquintor.github.io/portfolio/" target="_blank" style="text-decoration:none;">
+  <a href="https://daniquinto.github.io/portfolio/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Portfolio-ec4899?style=for-the-badge&logo=vercel&logoColor=020617"/>
   </a>
 </p>
